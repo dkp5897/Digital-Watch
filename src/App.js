@@ -15,7 +15,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Digital Me Watch</h1>
+      <h1>Digital Watch</h1>
       <h1 className="watch">{curTime}</h1>
     </div>
   );
